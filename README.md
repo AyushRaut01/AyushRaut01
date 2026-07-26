@@ -9,7 +9,7 @@
 ###
 
 # About ME 💬 :
-<img hight="400" width="330" alt="GIF" align="right" src="https://github.com/ashuna-dev/ashuna-dev/blob/main/github-readme-gif.gif">
+<img hight="250" width="300" alt="GIF" align="right" src="https://github.com/ashuna-dev/ashuna-dev/blob/main/github-readme-gif.gif">
 
 ### - I'm 23 years old tech Enthusiast from India.
 
