@@ -13,15 +13,12 @@
 
 ### - I'm 23 years old tech Enthusiast from India.
 
-## 👨‍💻 About Me
-
 - 💻 Building enterprise applications using **C#, ASP.NET MVC, SQL Server, and Entity Framework**
 - 🌱 Currently learning **ASP.NET Core, Web APIs, Microsoft Azure, Docker, and Clean Architecture**
 - 🚀 Passionate about backend development, cloud technologies, and building scalable applications
 - 🤝 Always open to learning new technologies and collaborating on interesting projects
   
-
-  
+ 
 
 </h>  
 </br>
