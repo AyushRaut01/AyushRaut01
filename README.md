@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Ayush Raut and I'm a Data Science and ML Student  😊</h2>
+<h2 align="center">Hi 👋! My name is Ayush Raut and I'm a Software Engineer  😊</h2>
 
 ###
 
@@ -11,12 +11,14 @@
 # About ME 💬 :
 <img hight="400" width="330" alt="GIF" align="right" src="https://github.com/ashuna-dev/ashuna-dev/blob/main/github-readme-gif.gif">
 
-### - I'm 21 years old tech Enthusiast from India.
+### - I'm 23 years old tech Enthusiast from India.
 
-### - Learning :
-- ✨ Machine Learning
-- ✨ Web Development (REACTJS)
-- ✨ Cloud Enginnering
+## 👨‍💻 About Me
+
+- 💻 Building enterprise applications using **C#, ASP.NET MVC, SQL Server, and Entity Framework**
+- 🌱 Currently learning **ASP.NET Core, Web APIs, Microsoft Azure, Docker, and Clean Architecture**
+- 🚀 Passionate about backend development, cloud technologies, and building scalable applications
+- 🤝 Always open to learning new technologies and collaborating on interesting projects
   
 
   
